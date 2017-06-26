@@ -1,6 +1,6 @@
 function init()
 
-	susbcribe('@decr[Resource-3] Temp = true', 'firewarning')
+	subscribe('@decr[Resource-3] Temp = true', 'firewarning')
 
 end
 
