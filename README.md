@@ -1,3 +1,2 @@
 # SRE
-
-This is a read me
+This repository contains example of Rules that are executed by the Semantic Rules Engine
